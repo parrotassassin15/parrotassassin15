@@ -1,4 +1,4 @@
-# Parrotassassin15 | Ryan J Wilke 
+### Parrotassassin15 | Ryan J Wilke 
 
 ## Some Of The Projects I am Working on! 
 
@@ -8,6 +8,10 @@
 ## GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=parrotassassin15&show_icons=true&show_border=false" />
 
+<br />
+<br />
+<br />
+<br />
 <h2> Social Media </h2>
 
 [<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
@@ -28,4 +32,3 @@
 [Tiktok]: https://tiktok.com/@parrotassassin15
 [Instagram]: https://instagram.com/parrotassassin15
 [Discord]: https://discord.parrot-ctfs.com
-
