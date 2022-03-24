@@ -1,16 +1,20 @@
-### Hi there 👋
+### ParrotAssassin15
 
-<!--
-**parrotassassin15/parrotassassin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some Of The Projects I am Working on! 
 
-Here are some ideas to get you started:
+* [Parrot-CTFs](https://github.com/Parrot-CTFs)
+* 
+* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## whoami
+
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [Linkdin]
+
+
+
+<br />
+<br />
+
+
+[Linkdin]: https://www.linkedin.com/in/ryan-wilke-8299b71b2
+[Parrot-CTFs]: https://github.com/Parrot-CTFs
