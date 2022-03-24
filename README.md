@@ -12,6 +12,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 <h2> Social Media </h2>
 
 [<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
