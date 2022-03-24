@@ -15,6 +15,11 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+
 <h2> Social Media </h2>
 
 [<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
@@ -35,3 +40,4 @@
 [Tiktok]: https://tiktok.com/@parrotassassin15
 [Instagram]: https://instagram.com/parrotassassin15
 [Discord]: https://discord.parrot-ctfs.com
+
