@@ -21,11 +21,11 @@
 
 <h2> Social Media </h2>
 
-[<img align="left" alt="linkedin" width="22px" src="icons/globe-solid.svg" style="filter: invert(100%);" />][Website]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkdin]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />][Tiktok]
+[<img align="left" alt="website" width="22px" src="icons/globe-solid.svg" />][Website]
+[<img align="left" alt="linkedin" width="22px" src="icons/linkedin-brands-solid.svg" />][Linkdin]
+[<img align="left" alt="discord" width="22px" src="icons/discord-brands-solid.svg" />][Discord]
+[<img align="left" alt="instagram" width="22px" src="icons/instagram-brands-solid.svg" />][Instagram]
+[<img align="left" alt="tiktok" width="22px" src="icons/tiktok-brands-solid.svg" />][Tiktok]
 
 
 <br />
