@@ -4,6 +4,7 @@
 
 * [Parrot-CTFs](https://github.com/Parrot-CTFs)
 * [Parrot-Recon](https://github.com/parrotassassin15/parrot-recon)
+* [Rate Limit Tester](https://github.com/parrotassassin15/rate-limit-tester-script)
 
 ## GitHub Stats
 <br />
