@@ -1,10 +1,11 @@
-# Parrotassassin15 | Ryan J Wilke 
+# Parrotassassin15 | Parrotboi~ <br> Red Teamer | Founder | Developer | Pentester
 
-### Some Of The Projects I am Working on! 
+### Some of the projects I am working on! 
 
 * [Parrot-CTFs](https://github.com/Parrot-CTFs)
 * [Parrot-Recon](https://github.com/parrotassassin15/parrot-recon)
 * [Rate Limit Tester](https://github.com/parrotassassin15/rate-limit-tester-script)
+* [Nuclei Custom Templates](https://github.com/parrotassassin15/red-teaming-custom-nuclei-templates)
 
 ## GitHub Stats
 <br />
