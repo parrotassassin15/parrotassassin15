@@ -1,11 +1,22 @@
-# Parrotassassin15 | Parrotboi~ <br> Red Teamer | Founder | Developer | Pentester
+# parrotassassin15 / parrotboi~
 
-### Some of the projects I am working on! 
+<br>
 
-* [Parrot-CTFs](https://github.com/Parrot-CTFs)
-* [Parrot-Recon](https://github.com/parrotassassin15/parrot-recon)
+<img align="left" src="https://s3.parrot-ctfs.com/65b0849184d398.95134929.png" />
+
+<br>
+
+hai ;3 and welcome to my github. my name is parrot and I am the founder of Parrot CTFs and I am a red team operator, developer, arch linux user, network engineer and penetration tester~
+
+### here are some of the projects I am working on O.O 
+
+* [Parrot CTFs](https://github.com/Parrot-CTFs)
+* [Parrot Recon](https://github.com/parrotassassin15/parrot-recon)
 * [Rate Limit Tester](https://github.com/parrotassassin15/rate-limit-tester-script)
-* [Nuclei Custom Templates](https://github.com/parrotassassin15/red-teaming-custom-nuclei-templates)
+* [Nuclei Templates](https://github.com/parrotassassin15/red-teaming-custom-nuclei-templates)
+
+<br>
+<hr> 
 
 ## GitHub Stats
 <br />
