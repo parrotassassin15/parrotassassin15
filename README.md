@@ -12,6 +12,7 @@ Red Team Operator • Penetration Tester • Developer • Arch Linux Enthusiast
 - [Parrot Recon](https://github.com/parrotassassin15/parrot-recon) – Recon automation toolkit
 - [Rate Limit Tester](https://github.com/parrotassassin15/rate-limit-tester-script)
 - [Custom Nuclei Templates](https://github.com/parrotassassin15/red-teaming-custom-nuclei-templates)
+- [CIS Cloud Scan](https://github.com/parrotassassin15/cis-cloud-scanning-framework)
 
 ---
 
