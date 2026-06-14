@@ -24,7 +24,6 @@ Red Team Operator • Penetration Tester • Developer • Arch Linux Enthusiast
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F37F21?logo=burp-suite&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 
@@ -37,9 +36,8 @@ Red Team Operator • Penetration Tester • Developer • Arch Linux Enthusiast
 ---
 
 ## Socials
-[![Website](https://img.shields.io/badge/Website-parrot--ctfs.com-blue?logo=google-chrome)](https://parrot-ctfs.com)
+[![Website](https://img.shields.io/badge/Website-parrot--ctfs.com-blue?logo=google-chrome)](https://lorikeetsecurity.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-wilke-8299b71b2)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.parrot-ctfs.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/parrotassassin15)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@parrotassassin15)
 
