@@ -8,7 +8,7 @@ Red Team Operator • Penetration Tester • Developer • Arch Linux Enthusiast
 ---
 
 ## Current Projects
--  [Parrot CTFs](https://github.com/Parrot-CTFs) – Cybersecurity training & events platform
+
 - [Parrot Recon](https://github.com/parrotassassin15/parrot-recon) – Recon automation toolkit
 - [Rate Limit Tester](https://github.com/parrotassassin15/rate-limit-tester-script)
 - [Custom Nuclei Templates](https://github.com/parrotassassin15/red-teaming-custom-nuclei-templates)
