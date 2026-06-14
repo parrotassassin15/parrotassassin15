@@ -39,7 +39,6 @@ Red Team Operator • Penetration Tester • Developer • Arch Linux Enthusiast
 [![Website](https://img.shields.io/badge/Website-lorikeetsecurity.com-blue?logo=google-chrome)](https://lorikeetsecurity.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-wilke-8299b71b2)
 [![Personal Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/parrotassassin15)
-[![Business Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/lorikeet_security)
 
 
 
