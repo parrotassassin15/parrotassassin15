@@ -12,16 +12,16 @@ Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
 ---
 
-## Current Projects
+## Work projects
 
-- [Parrot Recon](https://github.com/parrotassassin15/parrot-recon) – Recon automation toolkit
+- [Parrot Recon](https://github.com/parrotassassin15/parrot-recon) 
 - [Rate Limit Tester](https://github.com/parrotassassin15/rate-limit-tester-script)
 - [Custom Nuclei Templates](https://github.com/parrotassassin15/red-teaming-custom-nuclei-templates)
 - [CIS Cloud Scan](https://github.com/parrotassassin15/cis-cloud-scanning-framework)
 
 ---
 
-## Technologies & Tools Known & Actively Used 
+## Technologies & tools known & actively used 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
@@ -31,12 +31,14 @@ Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![YAML](https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
@@ -53,11 +55,15 @@ Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 
 ---
 
-## GitHub Stats
+## GitHub stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=parrotassassin15&show_icons=true&theme=radical)
 
 ---
