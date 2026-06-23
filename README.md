@@ -7,7 +7,7 @@ Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
 ---
 
-Former Lead of Offensive Security @ Cointelegraph & Technical Lead of Special Projects @ Prescient Security 
+Former Technical Lead of Offensive Security @ Cointelegraph & Technical Lead of Special Projects @ Prescient Security 
 
 ---
 
