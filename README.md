@@ -7,6 +7,10 @@ Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
 ---
 
+Former Lead of Offensive Security @ Cointelegraph & Technical Lead of Special Projects @ Prescient Security 
+
+---
+
 ## Current Projects
 
 - [Parrot Recon](https://github.com/parrotassassin15/parrot-recon) – Recon automation toolkit
