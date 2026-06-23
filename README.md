@@ -6,8 +6,9 @@
 Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
 ---
-
-Former Technical Lead of Offensive Security @ Cointelegraph & Technical Lead of Special Projects @ Prescient Security 
+- Current CEO of Lorikeet Security
+- Former Technical Lead of Offensive Security @ Cointelegraph
+- Former Technical Lead of Special Projects @ Prescient Security 
 
 ---
 
