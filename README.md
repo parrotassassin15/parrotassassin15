@@ -18,6 +18,8 @@ Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 - [Rate Limit Tester](https://github.com/parrotassassin15/rate-limit-tester-script)
 - [Custom Nuclei Templates](https://github.com/parrotassassin15/red-teaming-custom-nuclei-templates)
 - [CIS Cloud Scan](https://github.com/parrotassassin15/cis-cloud-scanning-framework)
+- [Twillio Mobile App](https://github.com/parrotassassin15/twillio-phone-app)
+- [Lory Agent Exporter](https://github.com/lorikeet-security/lorikeet-security-agent-exporter)
 
 ---
 
