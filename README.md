@@ -62,9 +62,14 @@ Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
 
 ---
-
 ## GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=parrotassassin15&show_icons=true&theme=radical)
+
+<table>
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=parrotassassin15&show_icons=true&include_all_commits=true&hide_border=true&bg_color=090e18&title_color=e8526a&icon_color=00e5a0&text_color=ffffff" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=parrotassassin15&layout=compact&langs_count=8&hide_border=true&bg_color=090e18&title_color=e8526a&text_color=ffffff" /></td>
+</tr>
+</table>
 
 ---
 
