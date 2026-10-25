@@ -1,12 +1,12 @@
 # parrotassassin15 / parrotboi~
 
-<img align="left" src="https://github.com/parrotassassin15.png" width="100px" />
+<img align="left" src="https://lorikeetsecurity.com/images/leadership-ryan-wilke.jpg" width="100px" style="border-radius: 50%;" />
 
-**Founder @ [Lorikeet Security](https://lorikeetsecurity.com)**  
-Senior Fractional Cyber Consultant • Red Team Operator • Penetration Tester • Web Developer • Startup Founder
+**Founder, CTO & Chair @ [Lorikeet Security](https://lorikeetsecurity.com)**  
+Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
 ---
-- Current CEO of Lorikeet Security
+- Current CEO, CTO & Chair of Lorikeet Security
 - Senior Fractional Cyber Consultant @ Assura Inc.
 - Former Technical Lead of Offensive Security @ Cointelegraph
 - Former Technical Lead of Special Projects @ Prescient Security 
