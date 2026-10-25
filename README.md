@@ -1,12 +1,13 @@
 # parrotassassin15 / parrotboi~
 
-<img align="left" src="https://s3.parrot-ctfs.com/65b0849184d398.95134929.png" width="100px" />
+<img align="left" src="https://github.com/parrotassassin15.png" width="100px" />
 
 **Founder @ [Lorikeet Security](https://lorikeetsecurity.com)**  
-Red Team Operator • Penetration Tester • Web Developer • Startup Founder
+Senior Fractional Cyber Consultant • Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
 ---
 - Current CEO of Lorikeet Security
+- Senior Fractional Cyber Consultant & Advisory
 - Former Technical Lead of Offensive Security @ Cointelegraph
 - Former Technical Lead of Special Projects @ Prescient Security 
 
