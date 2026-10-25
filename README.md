@@ -5,8 +5,6 @@
 **Founder, CTO & Chair @ [Lorikeet Security](https://lorikeetsecurity.com)**  
 Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
-<br clear="left"/>
-
 ---
 - Current CEO, CTO & Chair of Lorikeet Security
 - Senior Fractional Cyber Consultant @ Assura Inc.
