@@ -7,7 +7,7 @@ Senior Fractional Cyber Consultant • Red Team Operator • Penetration Tester 
 
 ---
 - Current CEO of Lorikeet Security
-- Senior Fractional Cyber Consultant & Advisory
+- Senior Fractional Cyber Consultant @ Assura Inc.
 - Former Technical Lead of Offensive Security @ Cointelegraph
 - Former Technical Lead of Special Projects @ Prescient Security 
 
