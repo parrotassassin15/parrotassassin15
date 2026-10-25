@@ -1,9 +1,11 @@
 # parrotassassin15 / parrotboi~
 
-<img align="left" src="https://lorikeetsecurity.com/images/leadership-ryan-wilke.jpg" width="100px" style="border-radius: 50%;" />
+<img align="left" src="pfp.png" width="100" height="100" />
 
 **Founder, CTO & Chair @ [Lorikeet Security](https://lorikeetsecurity.com)**  
 Red Team Operator • Penetration Tester • Web Developer • Startup Founder
+
+<br clear="left"/>
 
 ---
 - Current CEO, CTO & Chair of Lorikeet Security
