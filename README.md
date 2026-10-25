@@ -6,6 +6,9 @@
 Red Team Operator • Penetration Tester • Web Developer • Startup Founder
 
 ---
+
+<br> 
+
 - Current CEO, CTO & Chair of Lorikeet Security
 - Senior Fractional Cyber Consultant @ Assura Inc.
 - Former Technical Lead of Offensive Security @ Cointelegraph
